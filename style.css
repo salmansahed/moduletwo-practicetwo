@@ -1,0 +1,44 @@
+.one{
+    font-weight: 900;
+}
+
+#headerall{
+    color: peru;
+}
+
+#heraderalign{
+    text-align: center;
+}
+
+#headertext{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.twoheader{
+    text-align: center;
+}
+
+.two{
+    color: brown;
+    text-decoration: underline dotted;
+    text-underline-offset: 4px;
+}
+
+*{
+    background-color: bisque;
+}
+
+.three{
+    display: inline;
+    color: blueviolet;
+    border: 2px solid blue;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+
+#five{
+    background-color: rgb(35, 153, 19);
+}
