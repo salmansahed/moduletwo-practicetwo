@@ -1,0 +1,40 @@
+#headertext{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.inputbox{
+    border-radius: 500px;
+    padding-left: 10px;
+    width: 300px;
+    height: 35px;
+    border: 1px dashed red;
+    background-color: rgba(250, 235, 215, 0.658);
+    box-shadow: 0px  0px 10px rgba(22, 1, 1, 0.918);
+}
+
+#submitbutton{
+    padding: 6px 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    border-radius: 8px;
+    display: block;
+    margin: auto;
+    background-color: rgba(131, 129, 35, 0.548);
+    border: 2px solid rgb(16, 215, 241);
+    color: white;
+    font-size: 15px;
+    box-shadow: 0px  0px 10px rgba(22, 1, 1, 0.918);
+
+    
+}
+
+#maindiv{
+    /* background: linear-gradient(40deg, red, blue, orange); */
+    background-color: rgb(11, 132, 231);
+    box-shadow: 0px  0px 20px rgba(22, 1, 1, 0.918);
+    padding: 20px 40px 50px;
+    border-radius: 40px;
+    display: inline-block;
+}
